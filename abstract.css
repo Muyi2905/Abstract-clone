@@ -85,7 +85,17 @@ background-color: #dadbf1;
     float: right;
     flex-direction: row;
     padding: 20px;
+    
 }
 .paragraph1{
+    display: flex;
+}
+.branch{
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 29%;
+}
+.learn-more{
     display: flex;
 }
