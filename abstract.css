@@ -74,10 +74,13 @@ background-color: #dadbf1;
 #branch{
     height: 82px;
     width: 82px;
+    display: flex;
+   
 
 }
 #account{
     height: 80px;
     width: 80px;
     display: flex;
+    float: right;
 }
