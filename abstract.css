@@ -83,4 +83,9 @@ background-color: #dadbf1;
     width: 80px;
     display: flex;
     float: right;
+    flex-direction: row;
+    padding: 20px;
+}
+.paragraph1{
+    display: flex;
 }
