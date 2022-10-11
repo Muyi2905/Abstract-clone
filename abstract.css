@@ -74,7 +74,7 @@ background-color: #dadbf1;
 #branch{
     height: 82px;
     width: 82px;
-   
+   /* display: flex; */
    padding-top: 10px;
    
 }
@@ -82,8 +82,8 @@ background-color: #dadbf1;
     height: 80px;
     width: 80px;
     display: flex;
-    float: right;
-    flex-direction: row;
+    /* float: right;
+    flex-direction: row; */
     padding: 20px;
     
 }
@@ -106,25 +106,29 @@ background-color: #dadbf1;
 }
 
 .account-manage{
-    
- 
-    width: 29%;
-   
+    /* width: 29%; */
     justify-content: flex-end;
-    padding-right: 10px;
+    padding-right: 15px;
     
 }
  .row1{
     display: flex;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
  }
 .using{
     width: 49%;
+    padding-right: 50px;
 }
 .branchall{
-    padding-left: 120px;
+    /* padding-left: 120px; */
 }
 .row2{
     display: flex;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
  }
  .manageorganization{
     padding-right: 50px;
@@ -150,6 +154,9 @@ height: 82px;
  }
  .row3{
     display: flex;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
  }
  .authenticateabs{
     padding-right: 210px;
@@ -173,3 +180,19 @@ height: 82px;
     width: 29%;
     padding-top: 10px;   
  }
+.everything{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    margin-top: 20px;
+    background-color: black;
+    color: wheat;
+    padding-top: 20px;
+}
+#abstract-sermon{
+    display: flex;
+}
+.manage{
+
+}
