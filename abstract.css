@@ -74,10 +74,9 @@ background-color: #dadbf1;
 #branch{
     height: 82px;
     width: 82px;
-    display: flex;
+   
    padding-top: 10px;
-   margin-right: 50px;
-
+   
 }
 #account{
     height: 80px;
@@ -128,10 +127,10 @@ background-color: #dadbf1;
     display: flex;
  }
  .manageorganization{
-    padding-left: 40px;
+    padding-right: 50px;
     display: flex;
     justify-content: space-between;
-    width: 29%;
+    width: 32%;
     padding-top: 10px;
 }
  #manageorg{
@@ -139,7 +138,7 @@ width: 82px;
 height: 82px;
  }
  .managebilling{
-    padding-left: 40px;
+    padding-left: 140px;
     display: flex;
     justify-content: space-between;
     width: 29%;
@@ -148,4 +147,29 @@ height: 82px;
  #billing{
     height: 82px;
     width: 82px;
+ }
+ .row3{
+    display: flex;
+ }
+ .authenticateabs{
+    padding-right: 210px;
+    display: flex;
+    justify-content: space-between;
+    width: 32%;
+    padding-top: 10px;
+ }
+ #authenticate{
+    width: 82px;
+    height: 82px;
+ }
+ #support{
+    width: 82px;
+    height: 82px;
+ }
+ .abstractsupport{
+    padding-left: 140px;
+    display: flex;
+    justify-content: space-between;
+    width: 29%;
+    padding-top: 10px;   
  }
