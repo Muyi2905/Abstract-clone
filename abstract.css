@@ -75,7 +75,8 @@ background-color: #dadbf1;
     height: 82px;
     width: 82px;
     display: flex;
-   
+   padding-top: 10px;
+   margin-right: 50px;
 
 }
 #account{
@@ -91,7 +92,7 @@ background-color: #dadbf1;
     display: flex;
 }
 .branch{
-    padding-left: 20px;
+    padding-left: 40px;
     display: flex;
     justify-content: space-between;
     width: 29%;
@@ -99,3 +100,52 @@ background-color: #dadbf1;
 .learn-more{
     display: flex;
 }
+.account{
+    height: 82px;
+    width: 82px;
+   
+}
+
+.account-manage{
+    
+ 
+    width: 29%;
+   
+    justify-content: flex-end;
+    padding-right: 10px;
+    
+}
+ .row1{
+    display: flex;
+ }
+.using{
+    width: 49%;
+}
+.branchall{
+    padding-left: 120px;
+}
+.row2{
+    display: flex;
+ }
+ .manageorganization{
+    padding-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    width: 29%;
+    padding-top: 10px;
+}
+ #manageorg{
+width: 82px;
+height: 82px;
+ }
+ .managebilling{
+    padding-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    width: 29%;
+    padding-top: 10px; 
+ }
+ #billing{
+    height: 82px;
+    width: 82px;
+ }
