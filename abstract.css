@@ -71,7 +71,7 @@ background-color: #dadbf1;
     display: flex;
     justify-content: center;
 }
-.branch{
+#branch{
     height: 82px;
     width: 82px;
 
