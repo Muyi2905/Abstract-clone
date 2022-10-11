@@ -74,4 +74,10 @@ background-color: #dadbf1;
 .branch{
     height: 82px;
     width: 82px;
+
+}
+#account{
+    height: 80px;
+    width: 80px;
+    display: flex;
 }
